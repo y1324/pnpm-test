@@ -1,0 +1,13 @@
+{
+  "name": "@fle-express-line-ui/components",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "module": "index.js",
+  "author": "",
+  "type": "module",
+  "peerDependencies": {
+    "element-ui": "^2.15.6",
+    "vue": "^2.6.0"
+  }
+}
